@@ -11,7 +11,11 @@ body {
 
 .container {
  display: flex;
+}
 
+.score {
+  font: 800 25px system-ui;
+  text-align: center;
 }
 
 .grid{
